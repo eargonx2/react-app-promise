@@ -1,0 +1,11 @@
+
+.list{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  margin: 15px auto;
+  display: block;
+}
